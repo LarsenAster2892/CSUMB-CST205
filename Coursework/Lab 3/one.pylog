@@ -1,0 +1,160 @@
+<file_created time="Mon Nov 03 19:17:51 PST 2014">
+<command_run time="Mon Nov 03 19:18:16 PST 2014">path = pickAFile()></command_run>
+<command_run time="Mon Nov 03 19:18:59 PST 2014">makePicture(path)></command_run>
+<command_run time="Mon Nov 03 19:19:42 PST 2014">pic = makePicture(path)></command_run>
+<command_run time="Mon Nov 03 19:19:49 PST 2014">show(pic)></command_run>
+<command_run time="Mon Nov 03 19:20:52 PST 2014">print getWidth(pic)></command_run>
+<command_run time="Mon Nov 03 19:21:31 PST 2014">print getHeight(pic)></command_run>
+<command_run time="Mon Nov 03 19:21:43 PST 2014">explore(pic)></command_run>
+<command_run time="Mon Nov 03 19:22:59 PST 2014">getPixel( pic, x, y)></command_run>
+<command_run time="Mon Nov 03 19:23:15 PST 2014">getPixel(pic, x, y)></command_run>
+<command_run time="Mon Nov 03 19:23:42 PST 2014">getPixel(pic, 100, 200)></command_run>
+<command_run time="Mon Nov 03 19:24:48 PST 2014">pix = getPixel(pic, 100, 2000></command_run>
+<command_run time="Mon Nov 03 19:25:02 PST 2014">pix = getPixel(pic, 100, 200)></command_run>
+<command_run time="Mon Nov 03 19:25:08 PST 2014">getX(pix)></command_run>
+<command_run time="Mon Nov 03 19:25:18 PST 2014">getY(pix)></command_run>
+<command_run time="Mon Nov 03 19:25:41 PST 2014">getRed(pix)></command_run>
+<command_run time="Mon Nov 03 19:25:49 PST 2014">getColor(pix)></command_run>
+<command_run time="Mon Nov 03 19:28:25 PST 2014">pic = makePicture(pickAFile())></command_run>
+<command_run time="Mon Nov 03 19:29:00 PST 2014">show(pic)></command_run>
+<command_run time="Mon Nov 03 19:29:18 PST 2014">pixels = getPixels(pic)></command_run>
+<command_run time="Mon Nov 03 19:29:47 PST 2014">setColor(pixels[0], black)></command_run>
+<command_run time="Mon Nov 03 19:29:57 PST 2014">setColor(pixels[1], black)></command_run>
+<command_run time="Mon Nov 03 19:30:14 PST 2014">setColor(pixels[2], black)></command_run>
+<command_run time="Mon Nov 03 19:30:19 PST 2014">setColor(pixels[3], black)></command_run>
+<command_run time="Mon Nov 03 19:30:24 PST 2014">setColor(pixels[4], black)></command_run>
+<command_run time="Mon Nov 03 19:30:30 PST 2014">setColor(pixels[5], black)></command_run>
+<command_run time="Mon Nov 03 19:30:35 PST 2014">setColor(pixels[6], black)></command_run>
+<command_run time="Mon Nov 03 19:30:42 PST 2014">setColor(pixels[7], black)></command_run>
+<command_run time="Mon Nov 03 19:30:50 PST 2014">setColor(pixels[8], black)></command_run>
+<command_run time="Mon Nov 03 19:30:59 PST 2014">setColor(pixels[9], black)></command_run>
+<command_run time="Mon Nov 03 19:31:10 PST 2014">repaint(pic)></command_run>
+<menu_button time="Mon Nov 03 19:58:14 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 19:59:36 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\PickAndOpenPic.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 20:00:26 PST 2014">pickAndOpenPic()></command_run>
+<menu_button time="Mon Nov 03 20:05:43 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 20:05:45 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\PickAndOpenPic.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 20:06:22 PST 2014">pickAndOpenPic()></command_run>
+<command_run time="Mon Nov 03 20:06:50 PST 2014">newPic = pickAFile()></command_run>
+<command_run time="Mon Nov 03 20:07:04 PST 2014">newpic></command_run>
+<command_run time="Mon Nov 03 20:07:10 PST 2014">newPic></command_run>
+<command_run time="Mon Nov 03 20:07:49 PST 2014">showNamedPic(newPic)></command_run>
+<command_run time="Mon Nov 03 20:23:30 PST 2014">def reduceRed(filename):
+pixels = getPixels(pic)
+pixels = getPixels(filename)
+for pix in pixels:
+r = getRed(pix)
+setRed(pix, r * 0.5)></command_run>
+<menu_button time="Mon Nov 03 20:26:19 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 20:26:21 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\PickAndOpenPic.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 20:26:45 PST 2014">newPic = pickAFile()></command_run>
+<command_run time="Mon Nov 03 20:27:10 PST 2014">reduceRed(newPic)></command_run>
+<menu_button time="Mon Nov 03 20:29:10 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 20:29:11 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\PickAndOpenPic.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 20:29:22 PST 2014"> newPic = pickAFile()></command_run>
+<command_run time="Mon Nov 03 20:29:33 PST 2014">reduceRed(newPic)></command_run>
+<menu_button time="Mon Nov 03 20:36:00 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 20:36:01 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\PickAndOpenPic.py</file_saved>
+</file_created>
+<menu_button time="Mon Nov 03 20:37:56 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 20:37:59 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\PickAndOpenPic.py</file_saved>
+</file_created>
+<menu_button time="Mon Nov 03 20:38:03 PST 2014">Save Program As...</menu_button>
+<file_saved time="Mon Nov 03 20:38:10 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<menu_button time="Mon Nov 03 20:38:12 PST 2014">Load Program</menu_button>
+<command_run time="Mon Nov 03 20:38:21 PST 2014">halfRed()></command_run>
+<menu_button time="Mon Nov 03 20:39:40 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 20:39:41 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 20:39:52 PST 2014">lessRed(750></command_run>
+<command_run time="Mon Nov 03 20:40:02 PST 2014">lessRed(75)></command_run>
+<command_run time="Mon Nov 03 20:43:11 PST 2014"> 100 % 255></command_run>
+<command_run time="Mon Nov 03 20:43:18 PST 2014">254 % 255></command_run>
+<command_run time="Mon Nov 03 20:43:23 PST 2014">300 % 255></command_run>
+<command_run time="Mon Nov 03 20:45:53 PST 2014">255 % 255></command_run>
+<command_run time="Mon Nov 03 20:45:59 PST 2014">255 %256></command_run>
+<command_run time="Mon Nov 03 20:46:12 PST 2014">256 % 256></command_run>
+<command_run time="Mon Nov 03 20:46:19 PST 2014">257 % 256></command_run>
+<menu_button time="Mon Nov 03 20:46:26 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 20:46:27 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<menu_button time="Mon Nov 03 20:46:55 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 20:46:56 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 20:47:06 PST 2014">moreRed(50)></command_run>
+<menu_button time="Mon Nov 03 21:10:22 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 21:10:23 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 21:10:37 PST 2014">roseColoredGlasses()></command_run>
+<menu_button time="Mon Nov 03 21:11:20 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 21:11:22 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 21:11:36 PST 2014">roseColoredGlasses()></command_run>
+<menu_button time="Mon Nov 03 21:12:34 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 21:12:35 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 21:12:49 PST 2014">roseColoredGlasses()></command_run>
+<menu_button time="Mon Nov 03 21:13:52 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 21:13:53 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 21:14:08 PST 2014">roseColoredGlasses()></command_run>
+<command_run time="Mon Nov 03 21:42:41 PST 2014"> 1 % 255></command_run>
+<command_run time="Mon Nov 03 21:42:47 PST 2014">254 % 255></command_run>
+<command_run time="Mon Nov 03 21:42:53 PST 2014">255 % 255></command_run>
+<command_run time="Mon Nov 03 21:54:15 PST 2014"> 170 & 255></command_run>
+<command_run time="Mon Nov 03 21:54:31 PST 2014">170 & 130></command_run>
+<command_run time="Mon Nov 03 21:57:07 PST 2014"> x = 170 & 255></command_run>
+<command_run time="Mon Nov 03 21:57:09 PST 2014">x></command_run>
+<command_run time="Mon Nov 03 21:57:26 PST 2014">x = ~170></command_run>
+<command_run time="Mon Nov 03 21:57:27 PST 2014">x></command_run>
+<command_run time="Mon Nov 03 21:57:48 PST 2014">x = 170 |255></command_run>
+<command_run time="Mon Nov 03 21:57:49 PST 2014">x></command_run>
+<menu_button time="Mon Nov 03 22:06:59 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 22:07:01 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 22:07:17 PST 2014">roseColoredGlasses()></command_run>
+<menu_button time="Mon Nov 03 22:07:38 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 22:07:39 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 22:07:57 PST 2014">roseColoredGlasses()></command_run>
+<menu_button time="Mon Nov 03 22:09:18 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 22:09:19 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 22:09:28 PST 2014"> roseColoredGlasses()></command_run>
+<menu_button time="Mon Nov 03 22:12:28 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 22:12:29 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 22:12:32 PST 2014"> roseColoredGlasses()></command_run>
+<menu_button time="Mon Nov 03 22:15:17 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 22:15:18 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 22:15:21 PST 2014"> roseColoredGlasses()></command_run>
+<menu_button time="Mon Nov 03 22:15:49 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 22:15:50 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 22:15:53 PST 2014"> roseColoredGlasses()></command_run>
+<menu_button time="Mon Nov 03 22:16:10 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 22:16:11 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 22:16:14 PST 2014"> roseColoredGlasses()></command_run>
+<menu_button time="Mon Nov 03 22:16:33 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 22:16:34 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 22:16:39 PST 2014"> roseColoredGlasses()></command_run>
+<menu_button time="Mon Nov 03 22:17:04 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 22:17:05 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>
+<command_run time="Mon Nov 03 22:17:08 PST 2014"> roseColoredGlasses()></command_run>
+<menu_button time="Mon Nov 03 22:18:02 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Nov 03 22:18:03 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+<file_opened time="Tue Nov 18 18:56:33 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_opened>
+<menu_button time="Tue Nov 18 20:09:01 PST 2014">Load Program</menu_button>
+<command_run time="Tue Nov 18 20:09:14 PST 2014">roseColoredGlasses()></command_run>
+<menu_button time="Tue Nov 18 20:16:08 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Nov 18 20:16:11 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 3\one.py</file_saved>
+</file_created>

@@ -1,0 +1,251 @@
+#===================================================
+# CST205 Multimedia Design & Programming, Fall 2014 
+# Professor Allie Xiong
+# Team 5: <Otter Design>
+# Members: 
+#          Clarence Mitchell
+#          Gracie Alderete-Fisher
+#====================================================
+#
+#++++++++++++++++++++++++++++++++++++++++++++++++++++
+#
+#       Lab 12
+#
+#++++++++++++++++++++++++++++++++++++++++++++++++++++
+#
+#  The following items are in the game
+#   Hammer in foyer ... can be picked up
+#   Pumpkin in DinningRoom  ... CANNOT be picked up but can be smashed or carved
+#   Knife in Kitchen... can be picked up
+#   Safe in the living room ... can be opened with key 
+#   key inside pumpkin..
+#
+#  Game is lost if you smash the pumpkin with hammer (cause you destory the key)
+#  Game is won if you open the safe with the key
+#++++++++++++++++++++++++++++++++++++++++++++++++++++
+#
+#-------------------------------------------------------------------------------
+#
+#  print the Instructions 
+#    
+#------------------------------------------------------------------------------
+def printInstructions(): 
+  printNow("Welcome to the Team Otter Adventure House! ")
+  printNow("\nIn each room you will be told which directions you can go")
+  printNow("\n")
+  printNow("\nYou can move north, south, east, or west by typing that direction.")
+  printNow("\n")
+  printNow("\nType help to redisplay these instructions.")
+  printNow("\n")
+  printNow("\nType Exit to end the program.")
+
+
+#
+#-------------------------------------------------------------------------------
+#
+#  Print information for current room!!!
+#    
+#------------------------------------------------------------------------------- 
+#
+def showRoomInfo(currentRoom, gotKnife, gotHammer, gotKey, pumpkinCarved):
+  printNow("\n===========")
+#
+#
+#  Check for each room and print information about the room
+#
+  if currentRoom == "Porch":
+    printNow("You are on the porch oof a haunted house.")
+    printNow("It is a dark and stormy night")
+    printNow("You can go north into the house. If you dare.")
+#
+#  enter foyer and check for hammer
+#  
+  elif currentRoom == "Foyer":
+    printNow("You are in the foyer of the house. Discarded computer parts are everywhere")
+    if not(gotHammer):
+      printNow("There is a hammer here!  It could really smash something!")
+    printNow("You feel a sense of dread.")
+    printNow("There is a passageway to the north and another to the east.")
+    printNow("The porch is behind you to the south.")
+#  
+#  Enter Kitchen and check for knife
+#
+  elif currentRoom == "Kitchen":
+    printNow("You are in the kitchen. There is a big bloody mess here.")
+    if (gotKnife):
+      printNow("Looks like there used to be bloody knife in the counter")
+    else:
+      printNow("A bloody knife is stuck in the counter")
+    printNow("You can go to the south or east.")
+#
+#  Enter living room
+#
+  elif currentRoom == "LivingRoom":
+    printNow("You are in a living room. It is dimmly lite here.")
+    printNow("There is sofa and chair that are dusty.")
+    printNow("There also a locked safe here!")
+    printNow("You can go north or west.")
+#
+#  Enter dinningroom and check for pumpkin then check for key
+#
+  elif currentRoom == "DiningRoom":
+    printNow("You are in the dining room.")
+    printNow("No one is here but there is food on the table.")
+    printNow("There is a large PUMPKIN on the table.")
+    if pumpkinCarved:
+      printNow("it appears to be carved open")
+      if not(gotKey):
+        printNow("and there is a GOLD KEY in it")
+        printNow("it might open something valuable")
+    else:
+      printNow("The pumpkin has not been carved or smashed yet!")
+    printNow("You can go south or west")
+#
+#  Should never be at lines below
+  else:
+    printNow("You are lost somewhere")
+    printNow("please exit the game.")
+#
+#-------------------------------------------------------------------------------
+#
+#  Checks if direction is valid and moves player to new (if valid)
+#    
+#------------------------------------------------------------------------------- 
+#
+    
+def checkAndGetDirection(checkDirection, currentRoom):
+  nextRoom = ""
+  if (currentRoom == "Porch") and (checkDirection == "north"):
+      nextRoom = "Foyer"
+#
+  elif currentRoom == "Foyer":
+    if checkDirection == "north":
+      nextRoom = "Kitchen"
+    elif checkDirection == "east":
+      nextRoom = "LivingRoom"
+    elif checkDirection == "south":
+      nextRoom = "Porch"
+    else:
+      nextRoom = currentRoom
+#
+  elif currentRoom == "Kitchen":
+    if checkDirection == "east":
+      nextRoom = "DiningRoom"
+    elif checkDirection == "south":
+      nextRoom = "Foyer"
+    else:
+      nextRoom = currentRoom
+#
+  elif currentRoom == "LivingRoom":
+    if checkDirection == "west":
+      nextRoom = "Foyer"
+    elif checkDirection == "north":
+      nextRoom = "DiningRoom"
+    else:
+      nextRoom = currentRoom
+#
+  elif currentRoom == "DiningRoom":
+    if checkDirection == "west":
+      nextRoom = "Kitchen"
+    if checkDirection == "south":
+      nextRoom = "LivingRoom"
+    else:
+      nextRoom = currentRoom
+#      
+  else: 
+    nextRoom = currentRoom
+    printNow("You can't (or don't want to) go in that direction.")
+    
+  return nextRoom
+
+def adventureGame():
+  location = "Porch"
+  printInstructions()
+  userDirection = ""
+  holdingKnife = false
+  holdingKey = false
+  holdingHammer = false
+  openedPumpkin = false
+  
+  while not ((userDirection == "Exit") or (userDirection == "exit")) :
+    showRoomInfo(location, holdingKnife, holdingHammer, holdingKey, openedPumpkin)
+#                currentRoom, gotKnife, gotHammer, gotKey, pumpkinCarved)
+    userDirection = requestString("What direction do you want to go?")
+    printNow("You typed: " + userDirection)
+#    
+    if (userDirection == "Exit") or (userDirection == "exit"):
+        printNow("Thanks for playing...Goodbye!")
+#    
+    elif userDirection  == "help":
+        printInstructions()
+#  
+    elif userDirection == "get hammer":
+      if (location == "Foyer"):
+        if (holdingHammer):
+          printNow("You already have the hammer...")
+        else:
+          printNow("You are now holding a hammer, maybe you can smash something")
+          holdingHammer = true
+      else:
+        printNow("Sorry!  I don't see a hammer here!")
+#  
+    elif (userDirection == "get knife"):
+      if (location == "Kitchen"):
+        if (holdingKnife):
+          printNow("You already have the knife...")
+        else:
+          printNow("You are now holding the knife, maybe you can carve something")
+          holdingKnife = true
+      else:
+        printNow("Sorry!  I don't see a knife here!")
+#   
+    elif (userDirection == "get pumpkin") and (location == "DiningRoom"):
+       printNow("SORRY. That pumpkin is too big to pickup...")
+#
+    elif (userDirection == "carve pumpkin") and (location == "DiningRoom"):  
+       if (holdingKnife):
+         printNow("You have carved open the pumpkin and there is a gold key in it")
+         openedPumpkin = true
+       else:
+         printNow("Cannot carve pumpkin.  You need something like a knife!")
+#
+    elif (userDirection == "smash pumpkin") and (location == "DiningRoom"):  
+       if (holdingHammer):
+         printNow("You have smashed the pumpkin that contained a gold key in it")
+         printNow("Sorry you lose!")
+         printNow("Thanks for playing")
+         userDirection = "Exit"
+       else:
+         printNow("Cannot smash the pumpkin.  You need something smash it with like a hammer!")
+#
+    elif (userDirection == "get key"):  
+       if (location == "DiningRoom"):
+         if (openedPumpkin):
+           printNow("You now have the key")
+           printNow("It might open something valuable!")
+           holdingKey = true
+         else:
+           printNow("Sorry! I do not see a key ")
+           printNow("If you are hungry you should carve the pumpkin to make some pie!")
+       else:
+         printNow("Sorry!  I do not see a key!")
+
+#
+    elif (userDirection == "open safe"):  
+       if (location == "LivingRoom"):
+         if (holdingKey):
+           printNow("The safe is open and there is lots of gold coins in it")
+           printNow("CONGRATULATIONS YOU HAVE WON!")
+           printNow("Thanks for playing")
+           userDirection = "Exit"
+         else:
+           printNow("The safe needs a key to be openned. ")
+           printNow("If you are hungry you should find a pumpkin pie!")
+       else:
+         printNow("Sorry!  I do not see a safe!")
+#
+    elif not(userDirection == "north" or userDirection == "east" or userDirection == "west" or userDirection == "south"):
+      printNow("Sorry!  I do not understand that command!")
+    else:
+      location = checkAndGetDirection(userDirection, location)
+

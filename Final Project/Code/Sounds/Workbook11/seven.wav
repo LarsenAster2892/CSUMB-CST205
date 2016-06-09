@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html  dir="ltr" lang="en" xml:lang="en">
+<head>
+    <title></title>
+    <link rel="shortcut icon" href="https://ilearn.csumb.edu/theme/image.php/decaf/theme/1407966253/favicon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+<meta name="keywords" content="moodle, " />
+<meta http-equiv="refresh" content="3; url=https://ilearn.csumb.edu/course/view.php?id=6877" />
+<script type="text/javascript">
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/ilearn.csumb.edu","sesskey":"RdHWx5LRLu","loadingicon":"https:\/\/ilearn.csumb.edu\/theme\/image.php\/decaf\/core\/1407966253\/i\/loading_small","themerev":"1407966253","slasharguments":1,"theme":"decaf","jsrev":"1407966252","svgicons":true};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin');}};
+var yui2ConfigFn = function(me) {var p = me.path, b = me.name.replace(/^moodle-/,'').split('-', 3), n = b.pop();if (/(skin|core)/.test(n)) {n = b.pop();me.type = 'css';};me.path = b.join('-')+'/'+n+'/'+n;if(me.type !== 'css'){me.path=me.path+'-min';};me.path=me.path+'.'+me.type;};
+YUI_config = {"debug":false,"base":"https:\/\/ilearn.csumb.edu\/lib\/yuilib\/3.9.1\/build\/","comboBase":"https:\/\/ilearn.csumb.edu\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/ilearn.csumb.edu\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/ilearn.csumb.edu\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/ilearn.csumb.edu\/theme\/yui_combo.php?moodle\/1407966252\/","combine":true,"comboBase":"https:\/\/ilearn.csumb.edu\/theme\/yui_combo.php?","ext":false,"root":"moodle\/1407966252\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"modules":{"moodle-core-tooltip":{"requires":["base","node","io-base","moodle-core-notification","json-parse","widget-position","widget-position-align","event-outside","cache"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-popuphelp":{"requires":["moodle-core-tooltip"]},"moodle-core-formchangechecker":{"requires":["base","event-focus"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-notification":{"requires":["base","node","panel","event-key","dd-plugin"]},"moodle-core-formautosubmit":{"requires":["base","event-key"]},"moodle-calendar-eventmanager":{"requires":["base","node","event-mouseenter","overlay","moodle-calendar-eventmanager-skin"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-block_navigation-navigation":{"requires":["base","core_dock","io-base","node","dom","event-custom","event-delegate","json-parse"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-notification"]},"moodle-editor_tinymce-collapse":{"requires":["base","node","dom"]},"moodle-theme_bootstrapbase-bootstrap":{"requires":["node","selector-css3"]}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/ilearn.csumb.edu\/lib\/javascript.php\/1407966252\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker"]},"core_dock":{"name":"core_dock","fullpath":"https:\/\/ilearn.csumb.edu\/lib\/javascript.php\/1407966252\/blocks\/dock.js","requires":["base","node","event-custom","event-mouseenter","event-resize","escape"]}}};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+<link rel="stylesheet" type="text/css" href="https://ilearn.csumb.edu/theme/yui_combo.php?3.9.1/build/cssreset/cssreset-min.css&amp;3.9.1/build/cssfonts/cssfonts-min.css&amp;3.9.1/build/cssgrids/cssgrids-min.css&amp;3.9.1/build/cssbase/cssbase-min.css" /><script type="text/javascript" src="https://ilearn.csumb.edu/theme/yui_combo.php?3.9.1/build/simpleyui/simpleyui-min.js&amp;3.9.1/build/loader/loader-min.js"></script><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://ilearn.csumb.edu/theme/styles.php/decaf/1407966253/all" />
+<script type="text/javascript" src="https://ilearn.csumb.edu/lib/javascript.php/1407966252/lib/javascript-static.js"></script>
+    <script type="text/javascript">
+    YUI().use('node', function(Y) {
+        window.thisisy = Y;
+    	Y.one(window).on('scroll', function(e) {
+    	    var node = Y.one('#back-to-top');
+
+    	    if (Y.one('window').get('docScrollY') > Y.one('#page-content-wrapper').getY()) {
+    		    node.setStyle('display', 'block');
+    	    } else {
+    		    node.setStyle('display', 'none');
+    	    }
+    	});
+
+    });
+
+    </script>
+    
+</head>
+
+<body id="page-pluginfile" class="format-weeks  safari dir-ltr lang-en yui-skin-sam yui3-skin-sam ilearn-csumb-edu pagelayout-redirect course-6877 context-350391 cmid-252332 category-22 content-only">
+<div class="skiplinks"><a class="skip" href="#maincontent">Skip to main content</a></div>
+<script type="text/javascript">
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+
+<div id="page">
+
+<!-- END OF HEADER -->
+<div id="page-content-wrapper" class="clearfix">
+    <div id="page-content">
+        <div id="region-main-box">
+            <div id="region-post-box">
+            
+                <div id="region-main-wrap">
+                    <div id="region-main">
+                        <div class="region-content">
+                                                        <div role="main"><span id="maincontent"></span><div class="redirectmessage">Sorry, this activity is currently hidden</div><div class="continuebutton">(<a href="https://ilearn.csumb.edu/course/view.php?id=6877">Continue</a>)</div></div>                                                    </div>
+                    </div>
+                </div>
+                
+                                
+                                
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- START OF FOOTER -->
+        </div>
+<script type="text/javascript">
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"Last modified","name":"Name","error":"Error","info":"Information","morehelp":"More help","loadinghelp":"Loading...","cancel":"Cancel","yes":"Yes"},"repository":{"type":"Type","size":"Size","invalidjson":"Invalid JSON string","nofilesattached":"No files attached","filepicker":"File picker","logout":"Logout","nofilesavailable":"No files available","norepositoriesavailable":"Sorry, none of your current repositories can return files in the required format.","fileexistsdialogheader":"File exists","fileexistsdialog_editor":"A file with that name has already been attached to the text you are editing.","fileexistsdialog_filemanager":"A file with that name has already been attached","renameto":"Rename to \"{$a}\"","referencesexist":"There are {$a} alias\/shortcut files that use this file as their source"},"block":{"addtodock":"Move this to the dock","undockitem":"Undock this item","dockblock":"Dock {$a} block","undockblock":"Undock {$a} block","undockall":"Undock all","hidedockpanel":"Hide the dock panel","hidepanel":"Hide panel"},"langconfig":{"thisdirectionvertical":"btt"},"admin":{"confirmation":"Confirmation"}};
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+YUI().use('node', function(Y) {
+setTimeout(function() { document.location.replace("https:\/\/ilearn.csumb.edu\/course\/view.php?id=6877"); }, 6000);
+M.util.load_flowplayer();
+setTimeout("fix_column_widths()", 20);
+M.util.help_popups.setup(Y);
+M.yui.galleryversion="2010.04.08-12-35";Y.use("moodle-core-popuphelp",function() {M.core.init_popuphelp();
+});
+
+});
+//]]>
+</script>
+<div id="back-to-top"> 
+    <a class="arrow" href="#">▲</a> 
+    <a class="text" href="#">Back to Top</a> 
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4860091-1']);
+  _gaq.push(['_setDomainName', 'csumb.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"fe9387b72e","applicationID":"2350539","transactionName":"ZlFQNRYFXxFWVRJZX18bZxMNS0EOQlEPXlZYWFdPFAxB","queueTime":0,"applicationTime":259,"atts":"ShZTQ14fTB8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script></body>
+</html>

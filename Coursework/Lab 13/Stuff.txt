@@ -1,0 +1,123 @@
+http://anh.cs.luc.edu/python/hands-on/handsonHtml/handson.html 
+
+1.2.3. A Sample Program, Explained
+
+If you want to get right to the detailed explanations of writing your own Python, you can skip to the next section 1.2.4. If you would like an overview of a working program, even if all the explanations do not make total sense yet, read on.
+Here is the text of the madlib.py program, followed by line-by-line explanations. The numbers on the right are not part of the program file. They are added for reference in the comments below.
+"""                                                      1 
+String Substitution for a Mad Lib                        2 
+Adapted from code by Kirby Urner                         3 
+"""                                                      4 
+                                                         5 
+story = """                                              6 
+Once upon a time, deep in an ancient jungle,             7 
+there lived a %(animal)s.  This %(animal)s               8 
+liked to eat %(food)s, but the jungle had                9 
+very little %(food)s to offer.  One day, an             10 
+explorer found the %(animal)s and discovered            11 
+it liked %(food)s.  The explorer took the               12 
+%(animal)s back to %(city)s, where it could             13 
+eat as much %(food)s as it wanted.  However,            14 
+the %(animal)s became homesick, so the                  15 
+explorer brought it back to the jungle,                 16 
+leaving a large supply of %(food)s.                     17 
+                                                        18 
+The End                                                 19 
+"""                                                     20 
+                                                        21  
+def tellStory():                                        22 
+    userPicks = dict()                                  23 
+    addPick('animal', userPicks)                        24 
+    addPick('food', userPicks)                          25 
+    addPick('city', userPicks)                          26 
+    print story % userPicks                             27 
+                                                        28 
+def addPick(cue, dictionary):                           29 
+    prompt = "Enter a specific example for %s: " % cue  30 
+    dictionary[cue] = raw_input(prompt)                 31 
+                                                        32 
+tellStory()                                             33 
+raw_input("Press Enter to end the program.")            34 
+Line By Line Explanation
+"""                                                      1 
+String Substitution for a Mad Lib                        2 
+Adapted from code by Kirby Urner                         3 
+"""                                                      4 
+1-4
+There is multi-line text enclosed in triple quotes. Quoted text is called a string. A string at the very beginning of a file like this is documentation for the file.
+
+5,21,28,32
+Blank lines are included for human readability to separate logical parts. The computer ignores the blank lines.
+
+story = """                                              6 
+Once upon a time, deep in an ancient jungle,             7 
+there lived a %(animal)s.  This %(animal)s               8 
+liked to eat %(food)s, but the jungle had                9 
+very little %(food)s to offer.  One day, an             10 
+explorer found the %(animal)s and discovered            11 
+it liked %(food)s.  The explorer took the               12 
+%(animal)s back to %(city)s, where it could             13 
+eat as much %(food)s as it wanted.  However,            14 
+the %(animal)s became homesick, so the                  15 
+explorer brought it back to the jungle,                 16 
+leaving a large supply of %(food)s.                     17 
+                                                        18 
+The End                                                 19 
+"""                                                     20 
+6
+The equal sign tells the computer that this is an assignment statement. The computer will now associate the value of the expression between the triple quotes, a multi-line string, with the name on the left, story.
+
+7-20
+These lines contain the body of the string and the ending triple quotes. This story string is different from the documentation string of lines 1-4. It has a special form, called a format string. It will be used later to provide a format into which substitutions are made. The parts of the string starting with % and ending with s are places a substitute string will be inserted later. The substituted string will come from a custom dictionary that will contain the user's definitions of these words. The words in the parentheses: (animal), (food), (city), indicate that "animal", "food", and "city" are words in a dictionary. This custom dictionary will be created in the program and contain the user's definitions of these words. These user's definitions will be substituted later in the format string where each %(...)s is currently.
+
+def tellStory():                                        22 
+    userPicks = dict()                                  23 
+    addPick('animal', userPicks)                        24 
+    addPick('food', userPicks)                          25 
+    addPick('city', userPicks)                          26 
+    print story % userPicks                             27 
+22
+def is short for def inition. This line is the heading of a def inition, which makes the name tellStory becomes def ined as a short way to refer to the sequence of statements that start indented on line 23, and continue through line 27.
+
+23
+The equal sign tells the computer that this is another assignment statement. The computer will now associate the name userPicks with a new empty dictionary created by the Python code dict().
+
+24-26
+addPick is the name for a sequence of instructions defined on lines 29-31 for adding another definition to a dictionary, based on the user's input. The result of these three lines is to add definitions for each of the three words 'animal', 'food', and 'city' to the dictionary called userPicks.
+
+27
+This is where all the work becomes visible: Print the story format string with substitutions from the dictionary userPicks, to give the user's customized story. The '%' here is an operator on the string story that essentially means 'with substitutions from'.
+
+def addPick(cue, dictionary):                           29 
+    prompt = "Enter a specific example for %s: " % cue  30 
+    dictionary[cue] = raw_input(prompt)                 31 
+29
+This line is the heading of a definition, which gives the name addPick as a short way to refer to the sequence of statements indented on line 30 and line 31. addPick is followed by two words in parenthesis, cue and dictionary. These two words are associated with an actual cue word and dictionary given when this definition is invoked in lines 24-26.
+
+30
+On the right side of the equal sign is an expression involving a format string, much simpler than story. The resulting string just has the current value of cue substituted for the %s. This resulting string is then given the name prompt.
+
+31
+The right-hand-side of this equal sign causes an interaction with the user. The prompt string is printed to the computer screen, and the computer waits for the user to enter a line of text. That line of text then becomes a string inside the program. The left-hand-side of the equal sign is a reference to the definition of the cue word in the dictionary. The whole line ends up making the definition of the current cue word become the string typed by the user.
+
+tellStory()                                             33 
+raw_input("Press Enter to end the program.")            34
+
+33
+The definition of tellStory above does not make the computer do anything besides remember what the instruction tellStory means. It is only in this line, with the name, tellStory, followed by parentheses, that the whole sequence of remembered instructions are actually carried out.
+
+34
+This line is only here to accommodate running the program in Windows by double clicking on its file icon. Without this line, the story would be displayed and then the program would end, and Windows would make it immediately disappear from the screen! This line forces the program to continue being displayed until there is another response from the user, and meanwhile the user may look at the output from tellStory.
+
+
+Photographer David Slater was on a trip to Indonesia when an endangered crested black macaque grabbed his camera and started taking hundreds of pictures.
+When he looked at the shots, he spotted an incredible selfie of the grinning ape staring right into the camera lense.
+The pictures went viral in newspapers, websites and magazines across the globe and the Gloucestershire photographer's work was thrust into the internet spotlight.
+He originally requested the picture be taken off Wikipedia in 2012 and it was removed.
+But then it was re-posted by Tomasz Kozlowski who said that under U.S. law any picture taken by an animal cannot have copyright.
+Mr Kozlowski told the Daily Telegraph: “The work did not originate from Mr Slater as by his own admission he did not take the picture, the monkey did. However monkeys can’t and don’t own copyrights.”
+Mr Slater said recently: "When I saw the picture I was just stunned. It was made even better when the story was picked up and it made thousands of people around the world happy.
+"I had letters of congratulations from people as far as Iraq saying I'd made their day.
+Mr Slater said: "It makes me very angry, I'm a professional photographer - it costs me over £2,000 to do the trip. It's my livelihood.
+"You take 20,000 shots to get one image that sells, it was potentially a good earner for me, I've lost over £10,000 pounds because of it."
+

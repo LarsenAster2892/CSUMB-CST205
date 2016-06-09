@@ -1,0 +1,76 @@
+<file_created time="Wed Nov 12 20:41:57 PST 2014">
+<menu_button time="Wed Nov 12 20:42:15 PST 2014">Options</menu_button>
+<menu_button time="Wed Nov 12 20:42:38 PST 2014">pickAFolder</menu_button>
+<menu_button time="Wed Nov 12 20:43:07 PST 2014">Program Area + Interactions Area</menu_button>
+<menu_button time="Wed Nov 12 20:43:18 PST 2014">About JES</menu_button>
+<command_run time="Wed Nov 12 21:00:39 PST 2014">import turtle></command_run>
+<command_run time="Wed Nov 12 21:01:37 PST 2014">circle></command_run>
+<command_run time="Wed Nov 12 21:03:54 PST 2014">pic=makePicture(pickAFile())></command_run>
+<command_run time="Wed Nov 12 21:05:02 PST 2014">show(pic></command_run>
+<command_run time="Wed Nov 12 21:05:06 PST 2014">show(pic)></command_run>
+<command_run time="Wed Nov 12 21:05:57 PST 2014">addArcFilled(pic, 50, 50, 25, 25, 0, black)></command_run>
+<command_run time="Wed Nov 12 21:06:14 PST 2014">addArcFilled(pic, 50, 50, 25, 25, 00></command_run>
+<command_run time="Wed Nov 12 21:06:18 PST 2014">addArcFilled(pic, 50, 50, 25, 25, 0)></command_run>
+<command_run time="Wed Nov 12 21:09:09 PST 2014">pic.addOvalFilled(magenta, 10, 10, 100, 100)></command_run>
+<command_run time="Wed Nov 12 21:09:18 PST 2014">repaint(pic)></command_run>
+<menu_button time="Wed Nov 12 21:10:20 PST 2014">7 Picture Functions</menu_button>
+<command_run time="Wed Nov 12 21:11:34 PST 2014">explore(pic)></command_run>
+<command_run time="Wed Nov 12 21:22:09 PST 2014">pic.addOvalFilled(white 10, 10, 100, 100)></command_run>
+<command_run time="Wed Nov 12 21:22:15 PST 2014">repaint(pic)></command_run>
+<command_run time="Wed Nov 12 21:22:39 PST 2014">pic.addOvalFilled(white ,10, 10, 100, 100)></command_run>
+<command_run time="Wed Nov 12 21:22:42 PST 2014">repaint(pic)></command_run>
+<command_run time="Wed Nov 12 22:11:54 PST 2014">pic2=makePicture(pickAFile())></command_run>
+<command_run time="Wed Nov 12 22:12:42 PST 2014">show(pic)></command_run>
+<command_run time="Wed Nov 12 22:12:53 PST 2014">explore(pic)></command_run>
+<command_run time="Wed Nov 12 22:13:14 PST 2014">copyinto(pic2,pic,40,49)></command_run>
+<command_run time="Wed Nov 12 22:13:28 PST 2014">copyInto(pic2,pic,40,49)></command_run>
+<command_run time="Wed Nov 12 22:13:40 PST 2014">explore(pic)></command_run>
+<command_run time="Wed Nov 12 23:03:50 PST 2014">pic=makePicture(pickAFile())></command_run>
+<menu_button time="Wed Nov 12 23:33:31 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 23:38:32 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 7\testFile.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 23:45:45 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 23:45:47 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 7\testFile.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 23:46:15 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 23:46:17 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 7\testFile.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 23:46:26 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 23:46:28 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 7\testFile.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 23:46:41 PST 2014">turkeyCard()></command_run>
+<menu_button time="Wed Nov 12 23:47:32 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 23:47:33 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 7\testFile.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 23:47:36 PST 2014">turkeyCard()></command_run>
+<menu_button time="Wed Nov 12 23:47:45 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 23:47:46 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 7\testFile.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 23:47:47 PST 2014">turkeyCard()></command_run>
+<menu_button time="Wed Nov 12 23:48:05 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 23:48:06 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 7\testFile.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 23:48:08 PST 2014">turkeyCard()></command_run>
+<menu_button time="Wed Nov 12 23:50:38 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 23:50:39 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 7\testFile.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 23:50:42 PST 2014">turkeyCard()></command_run>
+<menu_button time="Wed Nov 12 23:51:27 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 23:51:29 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 7\testFile.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 23:51:31 PST 2014">turkeyCard()></command_run>
+<menu_button time="Wed Nov 12 23:53:03 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 23:53:04 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 7\testFile.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 23:53:07 PST 2014">turkeyCard()></command_run>
+<menu_button time="Wed Nov 12 23:53:56 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 23:53:58 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 7\testFile.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 23:54:03 PST 2014">turkeyCard()></command_run>
+<command_run time="Wed Nov 12 23:54:56 PST 2014">turkeyCard()></command_run>
+<menu_button time="Fri Nov 14 21:54:31 PST 2014">Save Program</menu_button>
+<file_saved time="Fri Nov 14 21:54:31 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 7\testFile.py</file_saved>
+<file_opened time="Sun Nov 16 23:26:38 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 7\testFile.py</file_opened>
+<menu_button time="Sun Nov 16 23:26:44 PST 2014">Save Program</menu_button>
+<file_saved time="Sun Nov 16 23:26:44 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 7\testFile.py</file_saved>
+</file_created>

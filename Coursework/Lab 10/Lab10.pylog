@@ -1,0 +1,331 @@
+<file_created time="Tue Dec 16 23:48:17 PST 2014">
+<Could not find C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.pylog, creating a new logfile>
+<menu_button time="Tue Dec 16 23:48:20 PST 2014">Load Program</menu_button>
+<menu_button time="Tue Dec 16 23:51:33 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 23:51:34 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Tue Dec 16 23:51:45 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 23:51:46 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 23:51:54 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 23:52:46 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 23:52:47 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 23:52:51 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 23:53:59 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 23:54:01 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Tue Dec 16 23:54:13 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 23:54:15 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 23:54:20 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 23:56:46 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 23:56:47 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 23:56:50 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 23:57:48 PST 2014">Save Program</menu_button>
+<file_saved time="Tue Dec 16 23:57:48 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Tue Dec 16 23:57:50 PST 2014">Load Program</menu_button>
+<command_run time="Tue Dec 16 23:57:52 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 23:58:28 PST 2014">Stop</menu_button>
+<menu_button time="Wed Dec 17 00:03:42 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 00:03:43 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+<file_opened time="Wed Dec 17 00:16:33 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_opened>
+<menu_button time="Wed Dec 17 00:18:07 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 00:18:07 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 00:19:49 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 00:19:49 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+<file_opened time="Wed Dec 17 00:21:14 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_opened>
+<menu_button time="Wed Dec 17 00:21:38 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 00:21:38 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 00:21:49 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 00:21:49 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 00:22:01 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 00:22:01 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+<file_opened time="Wed Dec 17 00:24:50 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_opened>
+<command_run time="Wed Dec 17 00:25:12 PST 2014">testnum = 10></command_run>
+<command_run time="Wed Dec 17 00:25:26 PST 2014">teststr = "'></command_run>
+<command_run time="Wed Dec 17 00:25:34 PST 2014">teststr = ""></command_run>
+<command_run time="Wed Dec 17 00:25:45 PST 2014">teststr += "part 1"></command_run>
+<command_run time="Wed Dec 17 00:26:11 PST 2014">teststr += str(testnum) + " more stuff"></command_run>
+<command_run time="Wed Dec 17 00:26:16 PST 2014">print teststr></command_run>
+<command_run time="Wed Dec 17 00:26:46 PST 2014">teststr = "\n" + teststr></command_run>
+<command_run time="Wed Dec 17 00:26:49 PST 2014">teststr = "\n" + teststr></command_run>
+<command_run time="Wed Dec 17 00:26:55 PST 2014">print teststr></command_run>
+<menu_button time="Wed Dec 17 00:27:28 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 00:27:28 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 00:28:10 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 00:28:10 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 00:28:51 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 00:28:51 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 00:30:45 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 00:30:45 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 00:31:14 PST 2014">myguess = requestString("test")></command_run>
+<command_run time="Wed Dec 17 00:31:25 PST 2014">print myguess></command_run>
+<command_run time="Wed Dec 17 00:31:36 PST 2014">print len(myguess)></command_run>
+<command_run time="Wed Dec 17 00:32:02 PST 2014">myguess = requestString("test")></command_run>
+<command_run time="Wed Dec 17 00:32:07 PST 2014">print len(myguess)></command_run>
+<command_run time="Wed Dec 17 00:32:16 PST 2014">myguess = requestString("test")></command_run>
+<command_run time="Wed Dec 17 00:32:26 PST 2014">print len(myguess)></command_run>
+<command_run time="Wed Dec 17 00:32:52 PST 2014">print myguess = ""></command_run>
+<command_run time="Wed Dec 17 00:33:06 PST 2014">print myguess = =""></command_run>
+<command_run time="Wed Dec 17 00:33:15 PST 2014">print myguess></command_run>
+<command_run time="Wed Dec 17 00:34:46 PST 2014">print  len(myguess + "")></command_run>
+<command_run time="Wed Dec 17 00:39:29 PST 2014">printNow("test")></command_run>
+<menu_button time="Wed Dec 17 00:43:22 PST 2014">3 Programming in Jython</menu_button>
+<menu_button time="Wed Dec 17 00:44:21 PST 2014">Program Area + Interactions Area</menu_button>
+<command_run time="Wed Dec 17 00:49:18 PST 2014">></command_run>
+<command_run time="Wed Dec 17 00:49:39 PST 2014">print (myguess == None)></command_run>
+<command_run time="Wed Dec 17 00:58:18 PST 2014"> mystring = "test1"></command_run>
+<command_run time="Wed Dec 17 00:58:29 PST 2014">print isalpha(mystring)></command_run>
+<command_run time="Wed Dec 17 00:59:00 PST 2014">print mystring.isalpha()></command_run>
+<command_run time="Wed Dec 17 00:59:11 PST 2014">mystring = "test"></command_run>
+<command_run time="Wed Dec 17 00:59:15 PST 2014">print mystring.isalpha()></command_run>
+<command_run time="Wed Dec 17 01:00:30 PST 2014">print not(mystring.isalpha())></command_run>
+<command_run time="Wed Dec 17 01:00:36 PST 2014"> mystring = "test1"></command_run>
+<command_run time="Wed Dec 17 01:00:40 PST 2014">print not(mystring.isalpha())></command_run>
+<command_run time="Wed Dec 17 01:04:00 PST 2014">lettersguess = ""></command_run>
+<menu_button time="Wed Dec 17 01:04:21 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 01:04:21 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 01:04:30 PST 2014">print lettersguess.find("t")></command_run>
+<command_run time="Wed Dec 17 01:04:46 PST 2014">lettersguess = "q"></command_run>
+<command_run time="Wed Dec 17 01:04:49 PST 2014">print lettersguess.find("t")></command_run>
+<command_run time="Wed Dec 17 01:04:59 PST 2014">lettersguess += "t"></command_run>
+<command_run time="Wed Dec 17 01:05:06 PST 2014">print lettersguess.find("t")></command_run>
+<menu_button time="Wed Dec 17 01:06:07 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 01:06:07 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 01:11:57 PST 2014">Open Program</menu_button>
+<menu_button time="Wed Dec 17 01:12:01 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 01:12:01 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 01:12:12 PST 2014">print mystring></command_run>
+<command_run time="Wed Dec 17 01:12:24 PST 2014">print len(mystring)></command_run>
+<command_run time="Wed Dec 17 01:12:56 PST 2014">print mystring.find("z",6)></command_run>
+<command_run time="Wed Dec 17 01:13:13 PST 2014">print mystring.find("t",6)></command_run>
+<menu_button time="Wed Dec 17 01:19:53 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 01:19:53 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 01:19:55 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Dec 17 01:20:04 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 01:20:04 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 01:20:58 PST 2014">msearchword = "hangman"></command_run>
+<command_run time="Wed Dec 17 01:21:33 PST 2014">moutputword = "_" * len(msearchword)></command_run>
+<command_run time="Wed Dec 17 01:21:39 PST 2014">print moutputword></command_run>
+<command_run time="Wed Dec 17 01:22:24 PST 2014">findAndReplace("g", msearchword, moutputword)></command_run>
+<menu_button time="Wed Dec 17 01:22:50 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Dec 17 01:22:59 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 01:23:01 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 01:23:46 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 01:23:47 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 01:23:51 PST 2014">findAndReplace("g", msearchword, moutputword)></command_run>
+<command_run time="Wed Dec 17 01:28:03 PST 2014">teststr1 = "testing1"></command_run>
+<command_run time="Wed Dec 17 01:28:52 PST 2014">teststr1.replace("t","_")></command_run>
+<command_run time="Wed Dec 17 01:31:36 PST 2014">teststr1 = "testing1"></command_run>
+<command_run time="Wed Dec 17 01:31:59 PST 2014">print teststr1.find("t")></command_run>
+<command_run time="Wed Dec 17 01:33:03 PST 2014">teststr1.replace("t","_",1)></command_run>
+<command_run time="Wed Dec 17 01:33:20 PST 2014">teststr1.replace("t","_",0)></command_run>
+<command_run time="Wed Dec 17 01:33:29 PST 2014">teststr1.replace("t","_",0)></command_run>
+<command_run time="Wed Dec 17 01:33:35 PST 2014">teststr1.replace("t","_",1)></command_run>
+<command_run time="Wed Dec 17 01:43:45 PST 2014"> xlist = ["_"]*6></command_run>
+<command_run time="Wed Dec 17 01:43:49 PST 2014">print xlist></command_run>
+<command_run time="Wed Dec 17 01:44:33 PST 2014"> xlist[1] = "t"></command_run>
+<command_run time="Wed Dec 17 01:44:37 PST 2014">print xlist></command_run>
+<menu_button time="Wed Dec 17 01:45:02 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 01:45:03 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 01:45:11 PST 2014"> xlist = ["_"]*6></command_run>
+<command_run time="Wed Dec 17 01:45:31 PST 2014"> xlist = ["_"]*7></command_run>
+<command_run time="Wed Dec 17 01:46:40 PST 2014">findAndReplace("g", msearchword, xlist)></command_run>
+<command_run time="Wed Dec 17 01:46:51 PST 2014">print xlist></command_run>
+<command_run time="Wed Dec 17 01:47:06 PST 2014">print xlist, msearchword></command_run>
+<command_run time="Wed Dec 17 01:47:27 PST 2014">findAndReplace("j", msearchword, xlist)></command_run>
+<command_run time="Wed Dec 17 01:47:31 PST 2014">print xlist, msearchword></command_run>
+<command_run time="Wed Dec 17 01:47:42 PST 2014">findAndReplace("h", msearchword, xlist)></command_run>
+<command_run time="Wed Dec 17 01:47:54 PST 2014">print xlist, msearchword></command_run>
+<command_run time="Wed Dec 17 01:48:17 PST 2014">findAndReplace("m", msearchword, xlist)></command_run>
+<command_run time="Wed Dec 17 01:48:24 PST 2014">print xlist, msearchword></command_run>
+<menu_button time="Wed Dec 17 01:48:58 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 01:48:59 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+<file_opened time="Wed Dec 17 02:19:04 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_opened>
+<menu_button time="Wed Dec 17 02:19:06 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Dec 17 02:19:21 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:19:22 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:19:40 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:20:26 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:20:28 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:20:30 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:20:58 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:20:59 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:21:02 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:21:14 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:21:16 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:21:18 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:21:45 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:21:46 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:21:48 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:21:55 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:21:56 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:21:57 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:25:08 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:25:11 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:25:15 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:26:00 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:26:01 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:26:04 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:28:13 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:28:14 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:28:16 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:28:26 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:28:28 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 02:28:35 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:28:36 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+<file_opened time="Wed Dec 17 02:29:51 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_opened>
+<menu_button time="Wed Dec 17 02:30:30 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 02:30:30 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 02:30:52 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 02:30:52 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 02:30:53 PST 2014">Load Program</menu_button>
+<command_run time="Wed Dec 17 02:30:57 PST 2014">hangman></command_run>
+<command_run time="Wed Dec 17 02:31:00 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:31:23 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:31:24 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:31:26 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:31:46 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:31:47 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:31:49 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:32:09 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:32:10 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:32:13 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:32:44 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:32:46 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:32:48 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:37:08 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 02:37:08 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 02:37:16 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:37:17 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:37:19 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:38:10 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 02:38:10 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 02:38:11 PST 2014">Load Program</menu_button>
+<command_run time="Wed Dec 17 02:38:14 PST 2014">hangman()></command_run>
+<command_run time="Wed Dec 17 02:40:36 PST 2014">xtest  = "test"></command_run>
+<command_run time="Wed Dec 17 02:41:05 PST 2014">xtest += "\nI am thinking of a word that is"></command_run>
+<command_run time="Wed Dec 17 02:41:15 PST 2014">print  xtest></command_run>
+<menu_button time="Wed Dec 17 02:41:40 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:41:41 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:41:45 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:42:17 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:42:18 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:42:20 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:43:56 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 02:43:56 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 02:43:58 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Dec 17 02:44:20 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 02:44:20 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 02:44:21 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Dec 17 02:44:33 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:44:34 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:44:38 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:45:13 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:45:15 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:45:17 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:45:59 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:46:01 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 02:47:08 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:47:09 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:47:11 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:47:39 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:47:40 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:47:43 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:48:00 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:48:01 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:48:04 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:48:41 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:48:42 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:48:45 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:49:06 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:49:07 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:49:10 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:50:10 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:50:11 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:50:14 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:51:21 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 02:51:21 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 02:51:22 PST 2014">Load Program</menu_button>
+<command_run time="Wed Dec 17 02:51:28 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:56:37 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:56:39 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 02:57:05 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:57:06 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 02:57:30 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:57:31 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:57:35 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 02:59:07 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 02:59:08 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 02:59:11 PST 2014">hangman()></command_run>
+<command_run time="Wed Dec 17 02:59:45 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 03:00:50 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 03:00:51 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<menu_button time="Wed Dec 17 03:02:31 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 03:02:32 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 03:02:35 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 03:02:49 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Dec 17 03:02:51 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>
+<command_run time="Wed Dec 17 03:02:53 PST 2014">hangman()></command_run>
+<command_run time="Wed Dec 17 03:03:56 PST 2014">hangman()></command_run>
+<menu_button time="Wed Dec 17 03:05:35 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Dec 17 03:05:35 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 10\Lab10.py</file_saved>
+</file_created>

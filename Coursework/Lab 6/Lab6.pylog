@@ -1,0 +1,323 @@
+<file_created time="Tue Nov 11 23:05:36 PST 2014">
+<menu_button time="Tue Nov 11 23:11:58 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Nov 11 23:12:42 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\WorkBook 7\workbook7</file_saved>
+</file_created>
+<command_run time="Tue Nov 11 23:13:14 PST 2014">c = pickAColor()></command_run>
+<command_run time="Tue Nov 11 23:13:36 PST 2014">changeColor(c)></command_run>
+<command_run time="Tue Nov 11 23:23:49 PST 2014">pic2 = makePicture(pickAFile())></command_run>
+<command_run time="Tue Nov 11 23:24:15 PST 2014"> show(pic2)></command_run>
+<command_run time="Tue Nov 11 23:24:23 PST 2014">explore(pic2)></command_run>
+<menu_button time="Tue Nov 11 23:35:46 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Nov 11 23:35:48 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\WorkBook 7\workbook7</file_saved>
+</file_created>
+<command_run time="Tue Nov 11 23:35:58 PST 2014">changeColor(c)></command_run>
+<menu_button time="Tue Nov 11 23:42:59 PST 2014">Explain</menu_button>
+<menu_button time="Tue Nov 11 23:43:04 PST 2014">Program Area + Interactions Area</menu_button>
+<menu_button time="Tue Nov 11 23:43:08 PST 2014">0 Table of Contents</menu_button>
+<menu_button time="Tue Nov 11 23:46:29 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Nov 11 23:46:30 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\WorkBook 7\workbook7</file_saved>
+</file_created>
+<command_run time="Tue Nov 11 23:46:56 PST 2014">cheezburger(pic2)></command_run>
+<menu_button time="Wed Nov 12 00:14:18 PST 2014">Save Program As...</menu_button>
+<file_saved time="Wed Nov 12 00:14:49 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 00:17:50 PST 2014">Program Area + Interactions Area</menu_button>
+<command_run time="Wed Nov 12 00:18:38 PST 2014">></command_run>
+<command_run time="Wed Nov 12 00:18:51 PST 2014">pic2 = makePicture(pickAFile())></command_run>
+<command_run time="Wed Nov 12 00:19:10 PST 2014">show(pic2)></command_run>
+<menu_button time="Wed Nov 12 00:20:08 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 00:20:09 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 00:20:24 PST 2014">redEyeCorrection()></command_run>
+<menu_button time="Wed Nov 12 00:21:03 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 00:21:04 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 00:21:30 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 00:21:31 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 00:21:34 PST 2014">redEyeCorrection()></command_run>
+<command_run time="Wed Nov 12 00:23:27 PST 2014">explore(pic2)></command_run>
+<menu_button time="Wed Nov 12 00:24:03 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 00:24:05 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 00:24:08 PST 2014">redEyeCorrection()></command_run>
+<menu_button time="Wed Nov 12 00:25:35 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 00:25:37 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 00:25:40 PST 2014">redEyeCorrection()></command_run>
+<command_run time="Wed Nov 12 00:26:35 PST 2014">redEyeCorrection()></command_run>
+<command_run time="Wed Nov 12 00:27:21 PST 2014">explore(pic2)></command_run>
+<menu_button time="Wed Nov 12 00:35:21 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 00:35:22 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 00:36:26 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 00:36:27 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 00:37:42 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 00:37:43 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 00:38:22 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 00:38:23 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 00:38:33 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 00:38:34 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 00:39:00 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 00:39:01 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 00:39:06 PST 2014">redEyeCorrection()></command_run>
+<command_run time="Wed Nov 12 00:39:33 PST 2014">redEyeCorrection()></command_run>
+<command_run time="Wed Nov 12 00:40:01 PST 2014">redEyeCorrection()></command_run>
+<menu_button time="Wed Nov 12 00:40:57 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Nov 12 00:40:57 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 00:40:58 PST 2014">Open Program</menu_button>
+<menu_button time="Wed Nov 12 00:43:47 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 00:44:02 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 00:44:08 PST 2014">redEyeCorrection()></command_run>
+<menu_button time="Wed Nov 12 01:01:24 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:01:25 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 01:01:55 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:01:56 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 01:02:59 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:03:01 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 01:04:16 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:04:17 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 01:04:48 PST 2014">mynewpic = betterBnW(pic1)></command_run>
+<command_run time="Wed Nov 12 01:04:57 PST 2014">show(mynewpic)></command_run>
+<menu_button time="Wed Nov 12 01:12:37 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:12:37 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 01:17:19 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:19 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:19 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:20 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:20 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:20 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:20 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:20 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:21 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:21 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:21 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:21 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:21 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:22 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:22 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:22 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:22 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:22 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:23 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:23 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:23 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:23 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:23 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:24 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:24 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:24 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:24 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:24 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:25 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:25 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:25 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:25 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:25 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:26 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:26 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:26 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:26 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:26 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:27 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:27 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:27 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:27 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:27 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:28 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:28 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:28 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:28 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:28 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:29 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:29 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:29 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:29 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:29 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:30 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:30 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:30 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:30 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:30 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:31 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:31 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:31 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:31 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:31 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:32 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:32 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:32 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:33 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:33 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:33 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:33 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:33 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:34 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:34 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:34 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:34 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:34 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:35 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:35 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:35 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:35 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:36 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:36 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:36 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:37 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:37 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:37 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:37 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:38 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:38 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:38 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:43 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:46 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:17:47 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:18:01 PST 2014">Undo</menu_button>
+<menu_button time="Wed Nov 12 01:20:08 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:20:09 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 01:20:17 PST 2014">makeSepia()></command_run>
+<menu_button time="Wed Nov 12 01:20:57 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:20:58 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 01:21:00 PST 2014">makeSepia()></command_run>
+<menu_button time="Wed Nov 12 01:30:09 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:30:10 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 01:30:14 PST 2014">makeSepia()></command_run>
+<menu_button time="Wed Nov 12 01:30:43 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:30:44 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 01:30:46 PST 2014">makeSepia()></command_run>
+<menu_button time="Wed Nov 12 01:34:09 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:34:10 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 01:34:22 PST 2014">makeSepia()></command_run>
+<menu_button time="Wed Nov 12 01:35:47 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:35:48 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 01:37:41 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:37:43 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 01:37:47 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Nov 12 01:37:57 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Nov 12 01:37:57 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 01:38:17 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:38:19 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 01:38:52 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:38:54 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 01:38:56 PST 2014">makeSepia()></command_run>
+<menu_button time="Wed Nov 12 01:49:40 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:49:42 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 01:50:03 PST 2014">Artify()></command_run>
+<menu_button time="Wed Nov 12 01:50:15 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 01:50:16 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 01:50:19 PST 2014">Artify()></command_run>
+<menu_button time="Wed Nov 12 01:53:06 PST 2014">7 Picture Functions</menu_button>
+<menu_button time="Wed Nov 12 02:07:28 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 02:07:29 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 02:07:34 PST 2014">Artify()></command_run>
+<command_run time="Wed Nov 12 02:08:45 PST 2014">adjustColor(5)></command_run>
+<menu_button time="Wed Nov 12 02:10:18 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 02:10:19 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 02:10:23 PST 2014">Artify()></command_run>
+<menu_button time="Wed Nov 12 02:13:28 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 02:13:37 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 02:13:39 PST 2014">Artify()></command_run>
+<menu_button time="Wed Nov 12 02:14:22 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 02:14:23 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 02:14:26 PST 2014">Artify()></command_run>
+<command_run time="Wed Nov 12 02:36:16 PST 2014">import gtk></command_run>
+<menu_button time="Wed Nov 12 03:57:53 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 03:57:55 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 03:58:27 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 03:58:28 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 03:58:40 PST 2014">chromakey()></command_run>
+<menu_button time="Wed Nov 12 04:02:11 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 04:02:12 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Wed Nov 12 04:04:23 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 04:04:24 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Wed Nov 12 04:04:27 PST 2014">chromakey()></command_run>
+<command_run time="Wed Nov 12 04:07:13 PST 2014">chromakey()></command_run>
+<menu_button time="Wed Nov 12 04:08:33 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Nov 12 04:08:34 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+<file_opened time="Sun Nov 16 14:59:43 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_opened>
+<command_run time="Sun Nov 16 14:59:53 PST 2014">redEyeCorrection()></command_run>
+<menu_button time="Sun Nov 16 14:59:58 PST 2014">Load Program</menu_button>
+<command_run time="Sun Nov 16 15:00:00 PST 2014">redEyeCorrection()></command_run>
+<menu_button time="Sun Nov 16 15:02:11 PST 2014">Load Program</menu_button>
+<file_saved time="Sun Nov 16 15:02:13 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Sun Nov 16 15:02:16 PST 2014">redEyeCorrection()></command_run>
+<menu_button time="Sun Nov 16 15:02:40 PST 2014">Load Program</menu_button>
+<file_saved time="Sun Nov 16 15:02:41 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Sun Nov 16 15:02:46 PST 2014">redEyeCorrection()></command_run>
+<menu_button time="Sun Nov 16 15:03:12 PST 2014">Load Program</menu_button>
+<file_saved time="Sun Nov 16 15:03:13 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+<file_opened time="Tue Nov 18 23:00:38 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_opened>
+<command_run time="Tue Nov 18 23:01:47 PST 2014">pic=makePicture(pickAFile())></command_run>
+<command_run time="Tue Nov 18 23:02:40 PST 2014">explore(pic)></command_run>
+<menu_button time="Tue Nov 18 23:05:27 PST 2014">Load Program</menu_button>
+<command_run time="Tue Nov 18 23:05:58 PST 2014">chromakey()></command_run>
+<command_run time="Tue Nov 18 23:06:43 PST 2014">chromakey()></command_run>
+<menu_button time="Tue Nov 18 23:07:05 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Nov 18 23:07:07 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Tue Nov 18 23:07:14 PST 2014">chromakey()></command_run>
+<menu_button time="Tue Nov 18 23:07:54 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Nov 18 23:07:55 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<menu_button time="Tue Nov 18 23:08:05 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Nov 18 23:08:06 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Tue Nov 18 23:08:10 PST 2014">chromakey()></command_run>
+<command_run time="Tue Nov 18 23:13:33 PST 2014">chromakey()></command_run>
+<menu_button time="Tue Nov 18 23:13:57 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Nov 18 23:13:59 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Tue Nov 18 23:14:06 PST 2014">chromakey()></command_run>
+<menu_button time="Tue Nov 18 23:14:37 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Nov 18 23:14:39 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Tue Nov 18 23:14:41 PST 2014">chromakey()></command_run>
+<menu_button time="Tue Nov 18 23:15:09 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Nov 18 23:15:10 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Tue Nov 18 23:15:18 PST 2014">chromakey()></command_run>
+<command_run time="Tue Nov 18 23:15:58 PST 2014">chromakey()></command_run>
+<menu_button time="Tue Nov 18 23:16:26 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Nov 18 23:16:27 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>
+<command_run time="Tue Nov 18 23:16:30 PST 2014">chromakey()></command_run>
+<command_run time="Tue Nov 18 23:16:54 PST 2014">chromakey()></command_run>
+<menu_button time="Tue Nov 18 23:17:17 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Nov 18 23:17:19 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 6\Lab6.py</file_saved>
+</file_created>

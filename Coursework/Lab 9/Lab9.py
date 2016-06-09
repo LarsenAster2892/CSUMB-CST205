@@ -1,0 +1,176 @@
+#===================================================
+# CST205 Multimedia Design & Programming, Fall 2014 
+# Professor Allie Xiong
+# Team 5: <Otter Design>
+# Members: 
+#          Clarence Mitchell
+#          Caitlin Kuleck
+#          Gracie Alderete-Fisher
+#          Luciano Avendano
+#====================================================
+#
+#++++++++++++++++++++++++++++++++++++++++++++++++++++
+#
+#       LAB 9
+#
+#++++++++++++++++++++++++++++++++++++++++++++++++++++
+#
+#-------------------------------------------------------------
+#  loadSnd
+#  inputs:  (none)
+#  output:  sndReturn - Sound file loaded from disk
+#-------------------------------------------------------------
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# --load pics for other routines 
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+def loadSnd():
+  filename = pickAFile()
+  print filename
+  sndReturn = makeSound(filename)
+  print sndReturn
+  return sndReturn
+
+#-------------------------------------------------------------
+#  saveSound()
+#    saves an sound from JES memory to disk location
+#  inputs:   source     - Input sound 
+#  output:              - Sound file written to disk
+#-------------------------------------------------------------
+def saveSound(source):
+  writeSoundTo(source, pickAFile())
+  print "Your file was successfully saved!"
+#
+#
+#
+#-------------------------------------------------------------------------------
+#  clip - 
+#      takes a sound object and increase the volume by double
+#  inputs:  source     - Input sound 
+#           start      - start is the starting index of our clip
+#           end        - end is the ending index of our clip
+#  output:  newsound   - new clipped sound
+#    
+#------------------------------------------------------------------------------
+def clip(source, start, end):
+#
+#  -- make new sound that range of start to end
+#
+   newSnd = makeEmptySound(end - start)
+#
+#  -- Initialize offset
+   newSndOffset = 0
+#   
+#  -- loop form start to end copying values
+#
+   for srcIndex in range(start, end):
+      srcValue = getSampleValueAt(source, srcIndex)
+      setSampleValueAt(newSnd, newSndOffset, srcValue)
+#     -- increment offset
+      newSndOffset += 1
+#
+   return newSnd      
+#
+#
+#-------------------------------------------------------------------------------
+#  copy - 
+#      let us splice our new sound into a bigger sound
+#  inputs:  source      - Source is the source sound (the short clip)
+#           target      - Target is the target sound
+#           start       - Start is the index in the target sound 
+#                          where the copy of the source should begin  
+#------------------------------------------------------------------------------
+#
+def copy(source, target, start):
+  targetPos = start
+  for srcIndex in range(0, getLength(source)):
+    srcValue = getSampleValueAt(source, srcIndex)
+    setSampleValueAt(target, targetPos, srcValue)
+    targetPos += 1
+
+#
+#-------------------------------------------------------------------------------
+# reverse - 
+#      returns the sound backwards.
+#  inputs:  source      - Source is the source sound (the short clip)
+#           target      - Target is the target sound
+#           start       - Start is the index in the target sound 
+#                          where the copy of the source should begin  
+#  output:  newsound   - new clipped sound
+#------------------------------------------------------------------------------
+#
+def reverse(sound):
+#
+# create a new empty sound 
+#
+  newSound = makeEmptySound(getNumSamples(sound))
+#
+# set up index to start at end of new sound
+#
+  newIndex = getNumSamples(sound)-1
+#
+# loop through original sound
+#
+  for index in range(getNumSamples(sound)):
+    value = getSampleValueAt(sound, index)
+    setSampleValueAt(newSound, newIndex, value)
+    newIndex = newIndex -1
+# return the new sound
+  return newSound
+
+#
+#
+#==============================================================================
+#  
+#  ---- Main Driver
+#    
+#==============================================================================
+#  
+def mainDriver():
+#
+# Problem 1
+#
+   snd1 = loadSnd()
+   explore(snd1)
+   newSnd = clip(snd1, 73988, 91787)
+   explore(newSnd)
+   showInformation("Problem 1 Done")
+#
+# Problem 2
+#
+   bigSnd = loadSnd()
+   explore(bigSnd)
+   smSnd = loadSnd()
+   explore(smSnd) 
+   copy(smSnd, bigSnd, 3703)
+   explore(bigSnd)
+   showInformation("Problem 2 Done")
+#
+# Problem 3
+#
+   bigSnd = loadSnd()
+   explore(bigSnd)
+   bigSndSampleRate = int(getSamplingRate(bigSnd))
+   reducedRate = int(bigSndSampleRate / 2)
+   print reducedRate, bigSndSampleRate
+   silentSnd = makeEmptySound( reducedRate , bigSndSampleRate)
+   silentSndLen = getLength(silentSnd)
+   copyPos = 10
+   for x in range(0,4):
+     copy(silentSnd, bigSnd, copyPos)
+     copyPos += silentSndLen    
+     sndFile = loadSnd()
+     explore(sndFile)
+     copy(sndFile, bigSnd, copyPos)
+     copyPos += getLength(sndFile)    
+   explore(bigSnd)
+   saveSound(bigSnd)
+   showInformation("Problem 3 Done")
+#
+# Problem 4
+#
+#
+  fwdSnd = loadSnd()
+  explore(fwdSnd)
+  revSnd = reverse(fwdSnd)
+  explore(revSnd)
+  showInformation("Problem 4 Done")

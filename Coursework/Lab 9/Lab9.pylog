@@ -1,0 +1,105 @@
+<file_created time="Tue Dec 16 19:05:33 PST 2014">
+<Could not find C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.pylog, creating a new logfile>
+<menu_button time="Tue Dec 16 19:05:35 PST 2014">Load Program</menu_button>
+<menu_button time="Tue Dec 16 19:05:49 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 19:05:52 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<menu_button time="Tue Dec 16 19:06:34 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 19:06:35 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 19:06:44 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 19:07:01 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 19:07:02 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 19:07:05 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 19:10:01 PST 2014">Undo</menu_button>
+<menu_button time="Tue Dec 16 19:13:19 PST 2014">Save Program</menu_button>
+<file_saved time="Tue Dec 16 19:13:19 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 19:37:35 PST 2014"> snd = makeSound(pickAFile())></command_run>
+<command_run time="Tue Dec 16 19:37:44 PST 2014">explore(snd)></command_run>
+<command_run time="Tue Dec 16 19:45:47 PST 2014"> snd = makeSound(pickAFile())></command_run>
+<command_run time="Tue Dec 16 19:47:07 PST 2014"> snd = makeSound(pickAFile())></command_run>
+<command_run time="Tue Dec 16 19:47:21 PST 2014">explore(snd)></command_run>
+<command_run time="Tue Dec 16 19:56:18 PST 2014"> snd = makeSound(pickAFile())></command_run>
+<command_run time="Tue Dec 16 19:56:28 PST 2014">explore(snd)></command_run>
+<menu_button time="Tue Dec 16 19:58:10 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 19:58:11 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<menu_button time="Tue Dec 16 19:59:28 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 19:59:29 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 19:59:34 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 20:11:33 PST 2014">Undo</menu_button>
+<menu_button time="Tue Dec 16 20:11:57 PST 2014">5 Sound Functions</menu_button>
+<menu_button time="Tue Dec 16 20:18:43 PST 2014">Undo</menu_button>
+<menu_button time="Tue Dec 16 20:23:31 PST 2014">Undo</menu_button>
+<menu_button time="Tue Dec 16 20:23:39 PST 2014">Save Program</menu_button>
+<file_saved time="Tue Dec 16 20:23:39 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+<file_opened time="Tue Dec 16 21:29:47 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_opened>
+<command_run time="Tue Dec 16 21:30:13 PST 2014">string1 =  "this is the first part"></command_run>
+<command_run time="Tue Dec 16 21:30:35 PST 2014">sring1 = string1 + " , this is the second part"></command_run>
+<command_run time="Tue Dec 16 21:30:42 PST 2014">print string1></command_run>
+<command_run time="Tue Dec 16 21:30:58 PST 2014">string1 = string1 + " , this is the second part"></command_run>
+<command_run time="Tue Dec 16 21:31:02 PST 2014">print string1></command_run>
+<command_run time="Tue Dec 16 21:31:15 PST 2014">showInformation(string10></command_run>
+<command_run time="Tue Dec 16 21:31:21 PST 2014">showInformation(string1)></command_run>
+<menu_button time="Tue Dec 16 22:09:45 PST 2014">5 Sound Functions</menu_button>
+<menu_button time="Tue Dec 16 22:39:21 PST 2014">Undo</menu_button>
+<menu_button time="Tue Dec 16 22:39:22 PST 2014">Undo</menu_button>
+<menu_button time="Tue Dec 16 22:39:23 PST 2014">Undo</menu_button>
+<menu_button time="Tue Dec 16 22:40:52 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 22:40:53 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<menu_button time="Tue Dec 16 22:41:10 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 22:41:11 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 22:41:26 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 22:42:54 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 22:42:55 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 22:42:57 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 22:44:38 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 22:44:39 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 22:44:42 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 22:45:05 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 22:45:06 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<menu_button time="Tue Dec 16 22:45:11 PST 2014">Load Program</menu_button>
+<command_run time="Tue Dec 16 22:45:14 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 22:45:55 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 22:45:57 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 22:45:59 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 22:46:20 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 22:46:21 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 22:46:24 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 22:46:59 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 22:47:00 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 22:47:03 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 22:50:42 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 22:50:43 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 22:50:46 PST 2014">mainDriver()></command_run>
+<command_run time="Tue Dec 16 22:57:08 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 22:57:39 PST 2014">Load Program</menu_button>
+<menu_button time="Tue Dec 16 22:57:54 PST 2014">Load Program</menu_button>
+<command_run time="Tue Dec 16 22:57:57 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 23:06:50 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 23:06:51 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<command_run time="Tue Dec 16 23:07:34 PST 2014">mainDriver()></command_run>
+<menu_button time="Tue Dec 16 23:09:46 PST 2014">Save Program</menu_button>
+<file_saved time="Tue Dec 16 23:09:46 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<menu_button time="Tue Dec 16 23:11:58 PST 2014">Undo</menu_button>
+<menu_button time="Tue Dec 16 23:11:59 PST 2014">Undo</menu_button>
+<menu_button time="Tue Dec 16 23:21:35 PST 2014">Load Program</menu_button>
+<file_saved time="Tue Dec 16 23:21:37 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
+<menu_button time="Tue Dec 16 23:21:55 PST 2014">Save Program</menu_button>
+<file_saved time="Tue Dec 16 23:21:55 PST 2014">C:\Users\LN\Documents\7. Education\Classess\Current\CST205\Labs\Lab 9\Lab9.py</file_saved>
+</file_created>
